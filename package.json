@@ -1,0 +1,14 @@
+{
+  "name": "api-menu",
+  "version": "1.0.0",
+  "description": "simple node rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elle Swift",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
